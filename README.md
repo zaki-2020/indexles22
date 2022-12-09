@@ -17,9 +17,6 @@ header{
   padding-top: 8px;
   padding-bottom: 8px;
 }
-h2{
-  padding-left: 150px;
-}
 body{
 background-color: green;
 }
